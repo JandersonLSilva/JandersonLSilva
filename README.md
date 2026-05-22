@@ -25,6 +25,15 @@ Atualmente, curso o 7º período de Engenharia de Software na UTFPR (Campus Corn
 ### 📊 Métricas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JandersonLSilva&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JandersonLSilva&layout=compact&theme=radical&hide_border=true" />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=JandersonLSilva&show_icons=true&theme=radical&hide_border=true" />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JandersonLSilva&layout=compact&theme=radical&hide_border=true" />
 </div>
