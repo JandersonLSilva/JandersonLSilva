@@ -1,16 +1,30 @@
-## Hi there 👋
+# ⚙️ Janderson Lima Silva
 
-<!--
-**JandersonLSilva/JandersonLSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro de Software | Desenvolvedor Full-Stack**
 
-Here are some ideas to get you started:
+Atualmente, curso o 7º período de Engenharia de Software na UTFPR (Campus Cornélio Procópio). Tendo atuado no desenvolvimento de sistemas internos institucionais, busco o ponto de equilíbrio ótimo entre a aplicação pragmática de código e o rigor teórico da ciência da computação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Foco e Atuação
+
+* **Engenharia de Software:** Arquitetura e desenvolvimento de sistemas robustos utilizando **Java (Spring Boot)**, **PHP (Propel ORM)**, **Python** e o ecossistema **TypeScript (Next.js, React, Svelte)**.
+* **Bancos de Dados & Qualidade:** Modelagem estrutural em bancos relacionais (MySQL, PostgreSQL) e NoSQL (MongoDB), com aplicação de testes unitários (JUnit) para assegurar a confiabilidade do código.
+* **Infraestrutura:** Gerenciamento de ambientes de desenvolvimento e conteinerização de aplicações utilizando **Docker** para garantir a padronização da infraestrutura.
+* **Teoria da Computação:** Interesse contínuo no estudo de autômatos, gramáticas formais e complexidade computacional para a escrita de algoritmos eficientes.
+
+### 💻 Stack Tecnológico
+
+* **Backend & APIs:** Java, Spring Boot, PHP, Python, RESTful APIs
+* **Frontend & UI:** TypeScript, React.js, Next.js, Svelte, Tailwind CSS, HTML5, CSS3
+* **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+* **DevOps & Engenharia:** Docker, Git, WSL, JUnit, Design Patterns
+
+### 🚀 Engenharia e Projetos em Destaque
+
+* **Sistemas Institucionais (NUAPE):** Desenvolvimento e manutenção de sistemas multicampus, com foco primário em arquitetar soluções escaláveis para o Núcleo de Apoio Psicológico.
+
+### 📊 Métricas e Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" />
+</div>
